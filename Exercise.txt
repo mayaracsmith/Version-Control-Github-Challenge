@@ -1,0 +1,9 @@
+1. Explain what the terminal is in your own words.
+A terminal allows us to send simple text commands to our computer to do things like navigate through a directory or copy a file, and form the basis for many more complex automations and programming skills.
+
+
+2. What is the major difference between Git and Github?
+Git is an open-source tool developers install locally to manage source code, while GitHub is an online service to which developers who use Git can connect and upload or download resources.
+
+3. Why do we use Github?
+We use github for our projects and it's the place where we can have interaction with other colaborators.
